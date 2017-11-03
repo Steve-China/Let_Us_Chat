@@ -1,0 +1,1 @@
+程序运行需MySQL环境，并且请在运行前将SQL目录下的chat.sql恢复到一个名为“chat”的database中（库名不含引号）
